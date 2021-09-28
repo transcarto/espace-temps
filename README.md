@@ -16,4 +16,5 @@ L'interface se présente à vous avec :
 * un bouton "save scene" en bas
 
 4. Cliquer sur un jeu de données, attendre
-5. Manipuler la molette de la souris (voir navigation de l'aide https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/basic_usage_tutorial/#navigation)
+5. Manipuler la molette de la souris (voir [navigation](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/basic_usage_tutorial/#navigation) dans l'[aide](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/basic_usage_tutorial/)) pour obtenir une vue satisfaisante, qui révèle le relief
+6. 
