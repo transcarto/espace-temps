@@ -18,4 +18,10 @@ L'interface se présente à vous avec :
 
 4. Cliquer sur un jeu de données, attendre
 5. Manipuler la molette de la souris (voir [navigation](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/basic_usage_tutorial/#navigation) dans l'[aide](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/basic_usage_tutorial/)) pour obtenir une vue satisfaisante, qui révèle le relief
-6. 
+   * Zoom = Molette
+   * Rotation = Clic gauche + mouvement de la souris
+   * Translation = Clic droit + mouvement de la souris
+7. Modier afficahge des arcs
+   * Zoom = Molette
+
+8. 
