@@ -57,6 +57,7 @@
 11. Exportation
     * Une copie d'écran permet de produire une image à habiller por créer une carte
     * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
+      * Blender permet de prendre la main de manière complète sur les paramètres visuels de l'image finale
 
 ## TP sortie France
 
