@@ -3,7 +3,7 @@
 
 ## Ratatinement / Shriveling
 
-[Shriveling world](https://theworldisnotflat.github.io/shriveling_world/marks/index) est une application conçue pour créer des images en trois dimensions de l'espace-temps géographique, reposant sur le principe d'un ratatinement (*shriveling*) de l'espace
+[Shriveling world](https://theworldisnotflat.github.io/shriveling_world/marks/index) est une application conçue pour créer des images en trois dimensions de l'espace-temps géographique, reposant sur le principe d'un ratatinement (*shriveling*) de l'espace géographique. Le projet comporte un [site github](https://github.com/theworldisnotflat/shriveling_world), un [forum d'utilisateurs](https://github.com/theworldisnotflat/shriveling_world/discussions) ainsi qu'un [blog scientifique](https://timespace.hypotheses.org/).
 
 ### TP de prise en main
 
@@ -49,8 +49,10 @@
    * Survoler la légende permet d'afficher les vitesses et les pentes du modèle
 
 9. Exploration du temps historique
-   * Suivant les données incluses dans les fichiers *transport_mode_speed* et *network* 
+   * Suivant les données incluses dans les fichiers *transport_mode_speed* et *network*, il est possible de définir la date de référence:
+     * Clic sur *Generalities*
+     * Faire glisser *year*
 
 10. Exportation
-   * Une copie d'écran permet de produire une image à habiller por créer une carte
-   * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
+    * Une copie d'écran permet de produire une image à habiller por créer une carte
+    * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
