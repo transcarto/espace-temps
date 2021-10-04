@@ -5,7 +5,7 @@
 
 [Shriveling world](https://theworldisnotflat.github.io/shriveling_world/marks/index) est une application conçue pour créer des images en trois dimensions de l'espace-temps géographique, reposant sur le principe d'un ratatinement (*shriveling*) de l'espace géographique. Le projet comporte un [site github](https://github.com/theworldisnotflat/shriveling_world), un [forum d'utilisateurs](https://github.com/theworldisnotflat/shriveling_world/discussions) ainsi qu'un [blog scientifique](https://timespace.hypotheses.org/).
 
-### TP de prise en main
+### Prise en main
 
 1. Ouvrir l'URL: https://github.com/theworldisnotflat/shriveling_world
 2. Cliquer sur le lien de l'application: https://theworldisnotflat.github.io/shriveling_world/marks/index
@@ -44,15 +44,27 @@
    * Couleur (attention, quelques erreurs dans l'affichage, reproduire la manipulation si les couleurs se perdent)
    * Transparence
 
-8. Légende
+8. Modifier l'éclairage de la scene
+   * *Light intensity*
+   * Position de la source lumineuse: *x*, *y*, *z*
+9. Légende
    * La légende figure la pente générale des cônes, le mode routier, rapporté au mode le plus rapide sur l'esapce considéré
    * Survoler la légende permet d'afficher les vitesses et les pentes du modèle
 
-9. Exploration du temps historique
+10. Exploration du temps historique
    * Suivant les données incluses dans les fichiers *transport_mode_speed* et *network*, il est possible de définir la date de référence:
      * Clic sur *Generalities*
      * Faire glisser *year*
 
-10. Exportation
+11. Exportation
     * Une copie d'écran permet de produire une image à habiller por créer une carte
     * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
+
+### TP sortie France
+
+1. Cliquer sur le jeu de données *France*
+2. Rendre invisibles les routes (*road*)
+3. Colorer les TGV en rouge (*HST*)
+4. Fixer une orientation permettant de visualiser le relief
+5. Agir sur la lumière
+6. Effectuer une copie d'écran
