@@ -53,4 +53,4 @@
 
 10. Exportation
    * Une copie d'écran permet de produire une image à habiller por créer une carte
-   * Le bouton *Save scene* exporte dans le format
+   * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
