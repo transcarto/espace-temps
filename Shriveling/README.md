@@ -3,7 +3,7 @@
 
 [Shriveling world](https://theworldisnotflat.github.io/shriveling_world/marks/index) est une application conçue pour créer des images en trois dimensions de l'espace-temps géographique, reposant sur le principe d'un ratatinement (*shriveling*) de l'espace géographique. Le projet comporte un [site github](https://github.com/theworldisnotflat/shriveling_world), un [forum d'utilisateurs](https://github.com/theworldisnotflat/shriveling_world/discussions) ainsi qu'un [blog scientifique](https://timespace.hypotheses.org/).
 
-## Prise en main
+## A Prise en main
 
 1. Ouvrir l'URL: https://github.com/theworldisnotflat/shriveling_world
 2. Cliquer sur le lien de l'application: https://theworldisnotflat.github.io/shriveling_world/marks/index
@@ -59,11 +59,12 @@
     * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
       * Blender permet de prendre la main de manière complète sur les paramètres visuels de l'image finale
 
-## TP sortie France
+## B TP sortie France
 
 1. Cliquer sur le jeu de données *France*
 2. Rendre invisibles les routes (*road*)
 3. Colorer les TGV en rouge (*HST*)
-4. Fixer une orientation permettant de visualiser le relief
-5. Agir sur la lumière
-6. Effectuer une copie d'écran
+4. Mettre la transparence de TGV à zéro (pour maximiser leur visibilité)
+5. Fixer une orientation permettant de visualiser le relief
+6. Agir sur la lumière
+7. Effectuer une copie d'écran
