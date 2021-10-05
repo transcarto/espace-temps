@@ -73,4 +73,8 @@
 
 ## Module D Adapter un jeu de données : Isère
 
+### Modifier la liste des villes
+### Modifier le réseau
+### Modifier les vitesses
+
 ## Module E Créer un jeu de données
