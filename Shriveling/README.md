@@ -3,7 +3,7 @@
 
 [Shriveling world](https://theworldisnotflat.github.io/shriveling_world/marks/index) est une application conçue pour créer des images en trois dimensions de l'espace-temps géographique, reposant sur le principe d'un ratatinement (*shriveling*) de l'espace géographique. Le projet comporte un [site github](https://github.com/theworldisnotflat/shriveling_world), un [forum d'utilisateurs](https://github.com/theworldisnotflat/shriveling_world/discussions) ainsi qu'un [blog scientifique](https://timespace.hypotheses.org/).
 
-## A Prise en main
+## Module A Prise en main
 
 1. Ouvrir l'URL: https://github.com/theworldisnotflat/shriveling_world
 2. Cliquer sur le lien de l'application: https://theworldisnotflat.github.io/shriveling_world/marks/index
@@ -59,7 +59,7 @@
     * Le bouton *Save scene* exporte dans le format *obj* reconnu par Blender
       * Blender permet de prendre la main de manière complète sur les paramètres visuels de l'image finale
 
-## B TP sortie France
+## Module B TP sortie France
 
 1. Cliquer sur le jeu de données *France*
 2. Rendre invisibles les routes (*road*)
@@ -68,3 +68,9 @@
 5. Fixer une orientation permettant de visualiser le relief
 6. Agir sur la lumière
 7. Effectuer une copie d'écran
+
+## Module C Blender
+
+## Module D Adapter un jeu de données : Isère
+
+## Module E Créer un jeu de données
