@@ -1,0 +1,513 @@
+cityCode,population,cityName,year
+38375,107,Saint-Christophe-en-Oisans,2010
+38040,126,Besse,2010
+38237,191,Mizoën,2010
+38112,101,Clavans-en-Haut-Oisans,2010
+38078,571,La Chapelle-du-Bard,2010
+38253,1908,Les Deux Alpes,2010
+38173,252,Le Freney-d'Oisans,2010
+38006,4102,Allevard,2010
+38527,337,Vaujany,2010
+38163,398,Le Haut-Bréda,2010
+38191,1307,Huez,2010
+38020,190,Auris,2010
+38268,261,Le Moutaret,2010
+38522,135,Valjouffrey,2010
+38289,235,Oz,2010
+38177,98,La Garde,2010
+38426,654,Saint-Maximin,2010
+38439,3339,Crêts en Belledonne,2010
+38550,56,Villard-Reculas,2010
+38549,27,Villard-Notre-Dame,2010
+38052,3278,Le Bourg-d'Oisans,2010
+38314,7344,Pontcharra,2010
+38005,971,Allemond,2010
+38504,1961,Theys,2010
+38551,43,Villard-Reymond,2010
+38100,2566,Le Cheylas,2010
+38002,1006,Les Adrets,2010
+38181,2425,Goncelin,2010
+38062,669,La Buissière,2010
+38469,65,La Salette-Fallavaux,2010
+38206,984,Laval,2010
+38073,203,Chantepérier,2010
+38027,1886,Barraux,2010
+38417,478,Sainte-Marie-d'Alloix,2010
+38192,168,Hurtières,2010
+38285,152,Ornon,2010
+38154,230,Entraigues,2010
+38286,7,Oulles,2010
+38166,490,La Flachère,2010
+38350,563,Sainte-Agnès,2010
+38466,1519,Saint-Vincent-de-Mercuze,2010
+38031,20,Beaufin,2010
+38501,2095,Tencin,2010
+38075,3010,Chapareillan,2010
+38511,3229,Le Touvet,2010
+38128,486,Corps,2010
+38303,574,La Pierre,2010
+38070,1197,Le Champ-près-Froges,2010
+38008,28,Ambel,2010
+38430,320,Saint-Mury-Monteymond,2010
+38503,2539,La Terrasse,2010
+38132,70,Les Côtes-de-Corps,2010
+38418,237,Sainte-Marie-du-Mont,2010
+38175,3331,Froges,2010
+38241,21,Monestier-d'Ambel,2010
+38212,1315,Livet-et-Gavet,2010
+38120,701,La Combe-de-Lancey,2010
+38214,2136,Lumbin,2010
+38428,31,Saint-Michel-en-Beaumont,2010
+38518,495,Valbonnais,2010
+38334,1314,Revel,2010
+38414,43,Sainte-Luce,2010
+38207,151,Lavaldens,2010
+38567,422,Chamrousse,2010
+38140,8247,Crolles,2010
+38547,7107,Villard-Bonnot,2010
+38395,2434,Plateau-des-Petites-Roches,2010
+38283,114,Oris-en-Rattier,2010
+38299,136,Pellafol,2010
+38329,67,Quet-en-Beaumont,2010
+38404,292,Saint-Jean-le-Vieux,2010
+38039,3072,Bernin,2010
+38470,318,La Salle-en-Beaumont,2010
+38264,132,La Morte,2010
+38538,4818,Le Versoud,2010
+38422,5451,Saint-Martin-d'Uriage,2010
+38521,71,La Valette,2010
+38431,2955,Saint-Nazaire-les-Eymes,2010
+38446,571,Saint-Pierre-d'Entremont,2010
+38489,136,Siévoz,2010
+38413,454,Saint-Laurent-en-Beaumont,2010
+38529,3867,Vaulnaveys-le-Haut,2010
+38150,6745,Domène,2010
+38478,1052,Séchilienne,2010
+38397,6966,Saint-Ismier,2010
+38273,466,Nantes-en-Ratier,2010
+38456,449,Châtel-en-Trièves,2010
+38271,882,Murianette,2010
+38364,433,Saint-Barthélemy-de-Séchilienne,2010
+38444,126,Saint-Pierre-de-Méaroz,2010
+38396,814,Saint-Honoré,2010
+38552,406,Villard-Saint-Christophe,2010
+38249,5134,Montbonnot-Saint-Martin,2010
+38528,1282,Vaulnaveys-le-Bas,2010
+38533,729,Venon,2010
+38497,140,Sousville,2010
+38106,329,Cholonge,2010
+38045,2386,Biviers,2010
+38313,291,Ponsonnas,2010
+38442,1015,Saint-Pierre-de-Chartreuse,2010
+38188,1361,Herbeys,2010
+38376,838,Saint-Christophe-sur-Guiers,2010
+38179,6779,Gières,2010
+38269,4948,La Mure,2010
+38229,17129,Meylan,2010
+38471,1121,Le Sappey-en-Chartreuse,2010
+38203,455,Laffrey,2010
+38562,7361,Vizille,2010
+38059,2556,Brié-et-Angonnes,2010
+38366,257,Saint-Baudille-et-Pipet,2010
+38116,42,Cognet,2010
+38462,521,Saint-Théoffrey,2010
+38304,1496,Pierre-Châtel,2010
+38514,178,Tréminis,2010
+38309,2168,Poisat,2010
+38421,38487,Saint-Martin-d'Hères,2010
+38445,764,Saint-Pierre-de-Mésage,2010
+38499,1272,Susville,2010
+38252,339,Montchaboud,2010
+38472,189,Sarcenas,2010
+38126,4013,Corenc,2010
+38326,355,Prunières,2010
+38155,1763,Entre-deux-Guiers,2010
+38403,288,Saint-Jean-d'Hérans,2010
+38226,1397,Mens,2010
+38279,1147,Notre-Dame-de-Mésage,2010
+38402,532,Saint-Jean-de-Vaulx,2010
+38057,684,Bresson,2010
+38158,10185,Eybens,2010
+38200,3746,Jarrie,2010
+38516,6596,La Tronche,2010
+38361,84,Saint-Arey,2010
+38280,509,Notre-Dame-de-Vaulx,2010
+38265,1712,La Motte-d'Aveillans,2010
+38412,4531,Saint-Laurent-du-Pont,2010
+38328,893,Quaix-en-Chartreuse,2010
+38071,3007,Champ-sur-Drac,2010
+38068,1226,Champagnier,2010
+38185,158454,Grenoble,2010
+38266,444,La Motte-Saint-Martin,2010
+38388,2276,Saint-Georges-de-Commiers,2010
+38423,5778,Saint-Martin-le-Vinoux,2010
+38151,36840,Échirolles,2010
+38325,507,Proveysieux,2010
+38224,97,Mayres-Savel,2010
+38321,164,Prébois,2010
+38236,1721,Miribel-les-Échelles,2010
+38277,518,Notre-Dame-de-Commiers,2010
+38127,165,Cornillon-en-Trièves,2010
+38564,226,Voissant,2010
+38254,487,Monteynard,2010
+38317,10435,Le Pont-de-Claix,2010
+38354,405,Saint-Albin-de-Vaulserre,2010
+38217,72,Marcieu,2010
+38405,1219,Saint-Joseph-de-Rivière,2010
+38204,193,Lalley,2010
+38382,15838,Saint-Égrève,2010
+38258,79,Mont-Saint-Martin,2010
+38420,260,Saint-Martin-de-Vaulserre,2010
+38372,723,Saint-Bueil,2010
+38208,148,Lavars,2010
+38169,22523,Fontaine,2010
+38524,8250,Varces-Allières-et-Risset,2010
+38486,7685,Seyssins,2010
+38545,8532,Vif,2010
+38407,984,La Sure en Chartreuse,2010
+38023,197,Avignonet,2010
+38485,12013,Seyssinet-Pariset,2010
+38398,966,Saint-Jean-d'Avelanne,2010
+38170,2710,Fontanil-Cornillon,2010
+38362,1137,Saint-Aupre,2010
+38115,717,Saint-Martin-de-la-Cluze,2010
+38315,3630,Le Pont-de-Beauvoisin,2010
+38513,292,Treffort,2010
+38228,487,Merlas,2010
+38111,7932,Claix,2010
+38492,692,Sinard,2010
+38424,155,Saint-Maurice-en-Trièves,2010
+38474,11376,Sassenage,2010
+38243,251,Le Monestier-du-Percy,2010
+38531,537,Velanne,2010
+38565,9293,Voreppe,2010
+38343,1580,Romagnieu,2010
+38383,2542,Saint-Étienne-de-Crossey,2010
+38242,1427,Monestier-de-Clermont,2010
+38386,2399,Saint-Geoire-en-Valdaine,2010
+38342,306,Roissard,2010
+38323,1156,Pressins,2010
+38436,2173,Saint-Paul-de-Varces,2010
+38433,1098,Saint-Nizier-du-Moucherotte,2010
+38113,543,Clelles,2010
+38301,172,Percy,2010
+38061,3142,La Buisse,2010
+38281,2223,Noyarey,2010
+38133,4836,Coublevie,2010
+38432,938,Saint-Nicolas-de-Macherin,2010
+38187,1779,Le Gua,2010
+38438,267,Saint-Paul-lès-Monestier,2010
+38012,2878,Aoste,2010
+38235,433,Miribel-Lanchâtre,2010
+38153,465,Engins,2010
+38460,430,Saint-Sulpice-des-Rivoires,2010
+38540,1438,Veurey-Voroize,2010
+38419,186,Saint-Martin-de-Clelles,2010
+38222,747,Massieu,2010
+38391,258,Saint-Guillaume,2010
+38104,1452,Chimilin,2010
+38205,2651,Lans-en-Vercors,2010
+38183,501,Granieu,2010
+38429,269,Saint-Michel-les-Portes,2010
+38001,6311,Les Abrets en Dauphiné,2010
+38400,3536,Saint-Jean-de-Moirans,2010
+38563,20108,Voiron,2010
+38256,1786,Montferrat,2010
+38080,774,Charancieu,2010
+38090,267,Château-Bernard,2010
+38248,543,Montaud,2010
+38239,7852,Moirans,2010
+38022,7739,Les Avenières Veyrins-Thuellin,2010
+38105,2337,Chirens,2010
+38124,2235,Corbelin,2010
+38373,1162,Saint-Cassien,2010
+38043,1544,Bilieu,2010
+38450,1451,Saint-Quentin-sur-Isère,2010
+38434,640,Saint-Ondras,2010
+38225,3000,Autrans-Méaudre en Vercors,2010
+38548,4210,Villard-de-Lans,2010
+38029,1919,La Bâtie-Montgascon,2010
+38270,1884,La Murette,2010
+38103,305,Chichilianne,2010
+38055,626,Brangues,2010
+38292,2485,Villages du Lac de Paladru,2010
+38357,2793,Saint-André-le-Gaz,2010
+38520,689,Valencogne,2010
+38084,1438,Charnècles,2010
+38186,395,Gresse-en-Vercors,2010
+38331,1021,Réaumont,2010
+38050,623,Le Bouchage,2010
+38566,1705,Vourey,2010
+38082,1925,Charavines,2010
+38129,354,Corrençon-en-Vercors,2010
+38355,122,Saint-Andéol,2010
+38296,793,Le Passage,2010
+38162,1445,Faverges-de-la-Tour,2010
+38338,747,La Rivière,2010
+38089,232,Chassignieu,2010
+38368,1062,Saint-Blaise-du-Buis,2010
+38465,1092,Saint-Victor-de-Morestel,2010
+38390,549,Saint-Gervais,2010
+38013,3313,Apprieu,2010
+38332,3507,Renage,2010
+38517,7680,Tullins,2010
+38377,3424,Saint-Clair-de-la-Tour,2010
+38381,2045,Saint-Didier-de-la-Tour,2010
+38337,6476,Rives,2010
+38148,3167,Dolomieu,2010
+38098,676,Chélieu,2010
+38310,1188,Poliénas,2010
+38287,1006,Oyeu,2010
+38458,627,Saint-Sorlin-de-Morestel,2010
+38333,322,Rencurel,2010
+38560,1539,Val-de-Virieu,2010
+38076,1807,La Chapelle-de-la-Tour,2010
+38543,2129,Vézeronce-Curtin,2010
+38261,4469,Morestel,2010
+38030,1682,Beaucroissant,2010
+38345,609,Rovon,2010
+38139,1503,Creys-Mépieu,2010
+38004,1244,L'Albenc,2010
+38246,1084,Montagnieu,2010
+38263,428,Morette,2010
+38525,474,Vasselin,2010
+38118,1574,Colombe,2010
+38074,337,Chantesse,2010
+38063,423,Burcin,2010
+38047,145,Blandin,2010
+38509,8080,La Tour-du-Pin,2010
+38216,53,Malleval-en-Vercors,2010
+38137,438,Cras,2010
+38297,1809,Arandon-Passins,2010
+38369,977,Sainte-Blandine,2010
+38401,1585,Saint-Jean-de-Soudain,2010
+38437,295,Saint-Paul-d'Izeaux,2010
+38194,2147,Izeaux,2010
+38147,881,Doissin,2010
+38065,2075,Châbons,2010
+38546,1015,Vignieu,2010
+38182,3094,Le Grand-Lemps,2010
+38117,635,Cognin-les-Gorges,2010
+38341,1116,Rochetoirin,2010
+38054,1512,Bouvesse-Quirieu,2010
+38278,492,Notre-Dame-de-l'Osier,2010
+38526,365,Vatilieu,2010
+38483,1668,Sermérieu,2010
+38559,4251,Vinay,2010
+38257,451,Montrevel,2010
+38171,322,La Forteresse,2010
+38322,87,Presles,2010
+38508,739,Torchefelon,2010
+38247,3368,Montalieu-Vercieu,2010
+38250,532,Montcarra,2010
+38033,638,Beaulieu,2010
+38195,726,Izeron,2010
+38108,121,Choranche,2010
+38042,1008,Bévenais,2010
+38320,1766,Porcieu-Amblagnieu,2010
+38135,1276,Courtenay,2010
+38308,261,Plan,2010
+38490,1909,Sillans,2010
+38092,88,Châtelus,2010
+38330,103,Quincieu,2010
+38443,464,Saint-Pierre-de-Chérennes,2010
+38464,2240,Saint-Victor-de-Cessieu,2010
+38046,963,Bizonnes,2010
+38064,2984,Cessieu,2010
+38500,574,Têche,2010
+38275,296,Serre-Nerpol,2010
+38044,1419,Biol,2010
+38539,639,Vertrieu,2010
+38038,598,Belmont,2010
+38174,1094,La Frette,2010
+38083,459,Charette,2010
+38374,3585,Saint-Chef,2010
+38213,571,Longechenal,2010
+38427,304,Saint-Michel-de-Saint-Geoirs,2010
+38494,777,Soleymieu,2010
+38467,1420,Salagnon,2010
+38295,709,Parmilieu,2010
+38387,516,Saint-Geoirs,2010
+38036,92,Beauvoir-en-Royans,2010
+38384,3225,Saint-Étienne-de-Saint-Geoirs,2010
+38319,774,Pont-en-Royans,2010
+38380,302,Saint-Didier-de-Bizonnes,2010
+38454,2098,Saint-Sauveur,2010
+38348,4529,Ruy-Montceau,2010
+38498,735,Succieu,2010
+38463,1721,Saint-Vérand,2010
+38523,854,Varacieux,2010
+38086,406,Chasselay,2010
+38481,1057,Sérézin-de-la-Tour,2010
+38060,144,Brion,2010
+38282,843,Optevoz,2010
+38365,814,Saint-Baudille-de-la-Tour,2010
+38356,315,Saint-André-en-Royans,2010
+38159,533,Eydoche,2010
+38091,716,Châteauvilain,2010
+38393,1504,Saint-Hilaire-de-la-Côte,2010
+38515,2170,Trept,2010
+38455,4076,Saint-Savin,2010
+38026,1060,La Balme-les-Grottes,2010
+38453,1778,Saint-Romans,2010
+38272,397,Murinais,2010
+38416,7903,Saint-Marcellin,2010
+38167,524,Flachères,2010
+38488,583,Siccieu-Saint-Julien-et-Carisieu,2010
+38018,376,Auberives-en-Royans,2010
+38267,715,Mottier,2010
+38058,2132,Brézins,2010
+38276,2649,Nivolas-Vermelle,2010
+38152,1434,Eclose-Badinières,2010
+38440,761,Saint-Pierre-de-Bressieux,2010
+38180,1012,Gillonnay,2010
+38099,708,Chevrières,2010
+38190,1192,Hières-sur-Amby,2010
+38069,1400,Champier,2010
+38156,985,Les Éparres,2010
+38010,676,Annoisin-Chatelans,2010
+38392,636,Saint-Hilaire-de-Brens,2010
+38146,837,Dizimieu,2010
+38230,995,Meyrié,2010
+38495,584,La Sône,2010
+38409,1212,Saint-Just-de-Claix,2010
+38095,2512,Chatte,2010
+38056,93,Bressieux,2010
+38532,846,Vénérieu,2010
+38053,28387,Bourgoin-Jallieu,2010
+38512,754,Tramolé,2010
+38535,266,Vernas,2010
+38041,116,Bessins,2010
+38457,2887,Saint-Siméon-de-Bressieux,2010
+38130,4811,La Côte-Saint-André,2010
+38360,409,Saint-Appolinard,2010
+38260,511,Moras,2010
+38223,1745,Maubec,2010
+38138,3282,Crémieu,2010
+38210,838,Leyrieu,2010
+38394,1886,Saint-Hilaire-du-Rosier,2010
+38347,1157,Roybon,2010
+38221,147,Marnans,2010
+38141,745,Culin,2010
+38149,1661,Domarin,2010
+38415,1393,Saint-Marcel-Bel-Accueil,2010
+38351,1043,Saint-Agnin-sur-Bion,2010
+38554,1852,Villemoirieu,2010
+38358,692,Sainte-Anne-sur-Gervonde,2010
+38093,440,Châtenay,2010
+38542,336,Veyssilieu,2010
+38370,634,Saint-Bonnet-de-Chavagne,2010
+38352,1982,Saint-Alban-de-Roche,2010
+38451,3288,Saint-Romain-de-Jalionas,2010
+38193,16124,L'Isle-d'Abeau,2010
+38094,2072,Châtonnay,2010
+38473,1124,Sardieu,2010
+38136,508,Crachier,2010
+38479,2015,Porte-des-Bonnevaux,2010
+38102,596,Chèzeneuve,2010
+38284,844,Ornacieux-Balbins,2010
+38359,1155,Saint Antoine l'Abbaye,2010
+38109,1064,Chozeau,2010
+38561,1630,Viriville,2010
+38245,266,Montagne,2010
+38231,1015,Meyrieu-les-Étangs,2010
+38172,1494,Four,2010
+38294,666,Panossas,2010
+38176,2069,Frontonas,2010
+38530,2553,Vaulx-Milieu,2010
+38410,1338,Saint-Lattier,2010
+38507,7249,Tignieu-Jameyzieu,2010
+38211,341,Lieudieu,2010
+38300,350,Penol,2010
+38218,1104,Marcilloles,2010
+38316,5772,Pont-de-Chéruy,2010
+38097,4685,Chavanoz,2010
+38255,133,Montfalcon,2010
+38067,1674,Chamagnieu,2010
+38015,1809,Artas,2010
+38339,2083,Roche,2010
+38505,743,Thodure,2010
+38553,18763,Villefontaine,2010
+38011,1061,Anthon,2010
+38161,1038,Faramans,2010
+38085,9661,Charvieu-Chavagneux,2010
+38537,7226,La Verpillière,2010
+38049,294,Bossieu,2010
+38379,282,Saint-Clair-sur-Galaure,2010
+38399,4594,Saint-Jean-de-Bournay,2010
+38291,1146,Pajay,2010
+38475,2419,Satolas-et-Bonce,2010
+38032,548,Beaufort,2010
+38081,1911,Charantonnay,2010
+38555,1147,Villeneuve-de-Marc,2010
+38197,1829,Janneyrias,2010
+38048,1096,Bonnefamille,2010
+38449,6103,Saint-Quentin-Fallavier,2010
+38311,704,Pommier-de-Beaurepaire,2010
+38557,4936,Villette-d'Anthon,2010
+38209,222,Lentiol,2010
+38346,396,Royas,2010
+38144,2722,Diémoz,2010
+38219,670,Marcollin,2010
+38406,149,Saint-Julien-de-l'Herms,2010
+38363,941,Saint-Barthélemy,2010
+38035,1121,Beauvoir-de-Marc,2010
+38389,3354,Saint-Georges-d'Espéranche,2010
+38184,1606,Grenay,2010
+38307,531,Pisieu,2010
+38232,637,Meyssiez,2010
+38476,895,Savas-Mépin,2010
+38189,4731,Heyrieux,2010
+38034,4921,Beaurepaire,2010
+38324,720,Primarette,2010
+38335,1053,Revel-Tourdan,2010
+38288,1637,Oytier-Saint-Oblas,2010
+38519,2799,Valencin,2010
+38238,1889,Moidieu-Détourbe,2010
+38134,879,Cour-et-Buis,2010
+38408,2568,Saint-Just-Chaleyssin,2010
+38160,2252,Eyzin-Pinet,2010
+38290,841,Pact,2010
+38240,707,Moissieu-sur-Dolon,2010
+38480,2063,Septème,2010
+38259,961,Montseveroux,2010
+38157,3365,Estrablin,2010
+38215,2302,Luzinay,2010
+38037,990,Bellegarde-Poussieu,2010
+38198,1037,Jarcieu,2010
+38244,792,Monsteroux-Milieu,2010
+38459,878,Saint-Sorlin-de-Vienne,2010
+38066,180,Chalon,2010
+38318,5210,Pont-Évêque,2010
+38484,1939,Serpaize,2010
+38496,1241,Sonnay,2010
+38077,751,La Chapelle-de-Surieu,2010
+38558,1872,Villette-de-Vienne,2010
+38199,2207,Jardin,2010
+38536,1294,Vernioz,2010
+38051,1375,Bougé-Chambalud,2010
+38452,353,Saint-Romain-de-Surieu,2010
+38009,1013,Anjou,2010
+38544,29306,Vienne,2010
+38131,2026,Les Côtes-d'Arey,2010
+38110,2181,Chuzelles,2010
+38017,1472,Assieu,2010
+38003,1106,Agnin,2010
+38556,1173,Ville-sous-Anjou,2010
+38336,1909,Reventin-Vaugris,2010
+38487,2003,Seyssuel,2010
+38101,1024,Cheyssieu,2010
+38072,2589,Chanas,2010
+38344,8455,Roussillon,2010
+38019,1484,Auberives-sur-Varèze,2010
+38087,6048,Chasse-sur-Rhône,2010
+38468,4513,Salaise-sur-Sanne,2010
+38107,1668,Chonas-l'Amballan,2010
+38448,1372,Saint-Prim,2010
+38114,1458,Clonas-sur-Varèze,2010
+38349,2309,Sablons,2010
+38298,6680,Le Péage-de-Roussillon,2010
+38425,6141,Saint-Maurice-l'Exil,2010
+38378,3817,Saint-Clair-du-Rhône,2010
+38340,1925,Les Roches-de-Condrieu,2010
+38353,842,Saint-Alban-du-Rhône,2010
