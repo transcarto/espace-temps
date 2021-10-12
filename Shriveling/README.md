@@ -73,8 +73,19 @@
 
 ## Module D Adapter un jeu de données : Isère
 
+Les jeux de données de l'Isère ont été produit avec [QGIS](https://www.qgis.org/fr/site/) en suivant [les instructions indiquées ici](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md) et aussi [ici](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/create_dataset).
+
+Deux jeux de données sont disponibles:
+* [Réseau à 512 noeuds](https://github.com/transcarto/espace-temps/tree/main/Shriveling/38) (les 512 communes de l'Isère)
+* [Réseau à 48 noeuds](https://github.com/transcarto/espace-temps/tree/main/Shriveling/38_sup5000) (communes de plus de 5000 habitants)
+
+### Télécharger les données
+
+Depuis [la racine du GitHub espace-temps](https://github.com/transcarto/espace-temps) cliquer sur _Code_ puis _Download ZIP_
+
+### Modifier les vitesses
+
 ### Modifier la liste des villes
 ### Modifier le réseau
-### Modifier les vitesses
 
 ## Module E Créer un jeu de données
