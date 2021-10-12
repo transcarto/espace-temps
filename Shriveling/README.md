@@ -73,8 +73,8 @@
 
 L'utilisation de Blender avec les données Shriveling est décrite dans [ce tutoriel](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/blender_tutorial). Le TP se décompose ainsi:
 1. _Export scene_ depuis __Shriveling world__
-2. Import scene in Blender
-3. Test and correct normals
+2. Importer la scene dans Blender
+3. Tester et corriger les normales
 4. Fusionner les cônes
 5. Supprimer le noeud des courbes situé au centre de la terre
 6. Convertir les arcs en _curves_
@@ -82,7 +82,7 @@ L'utilisation de Blender avec les données Shriveling est décrite dans [ce tuto
 8. Définir le matériau des _curves_
 9. Découper les cônes à la frontière
 10. Préparer le rendering
-11. Mettre en oeuvre la HDRI
+11. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
 12. Mettre en place la caméra
 13. Effectuer un rendu F12 (à confirmer)
 
@@ -100,7 +100,24 @@ Depuis [la racine du GitHub espace-temps](https://github.com/transcarto/espace-t
 
 ### Modifier les vitesses
 
+On peut souhaiter modifier les vitesses respectives de la route classique et de l'autoroute, par exemple en effectuant des mesures typiques depuis l'[OpenStreetMap](https://www.openstreetmap.org/directions). Ces modifications auront un imapct sur la géométrie tridimensionnelle du modèle, en agissant sur la pente des cônes.
+
+Pour modifier les vitesses il faut intervenir sur le fichier _transport_mode_speed_
+
 ### Modifier la liste des villes
+
+On peut souhaiter modifier la liste des villes considérées, pour intervenir sur le rendu visuel final.
+Par exemple: 
+* ne retenir que les communes d'un seuil de population donné
+* regrouper les communes d'une même agglomération en un noeud unique
+* ne retenir que les communes desservies par l'autoroute
+
+__Attention__: toute modification des noeuds du graphe peut avoir un impact sur les arcs du graphe.
+
 ### Modifier le réseau
+
+Pour modifier le réseau on peut soit:
+* intervenir
+* repartir des [instructions dans QGIS](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md)
 
 ## Module E Créer un jeu de données
