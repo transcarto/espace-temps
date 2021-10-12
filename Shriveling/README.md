@@ -117,7 +117,12 @@ __Attention__: toute modification des noeuds du graphe peut avoir un impact sur 
 ### Modifier le réseau
 
 Pour modifier le réseau on peut soit:
-* intervenir
-* repartir des [instructions dans QGIS](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md)
+* intervenir directement sur le fichier CSV _network_ du jeu de données
+* repartir des [instructions QGIS pour créer un jeu de données](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md)
 
 ## Module E Créer un jeu de données
+
+Pour créer un jeu de données, voici:
+
+* Un ensemble de [principes généraux théoriques et pratiques](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/create_dataset)
+* Un ensemble [d'instructions détaillées à partir de zéro](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md)
