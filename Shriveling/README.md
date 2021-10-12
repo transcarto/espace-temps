@@ -71,6 +71,21 @@
 
 ## Module C Blender
 
+L'utilisation de Blender avec les données Shriveling est décrite dans [ce tutoriel](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/blender_tutorial). Le TP se décompose ainsi:
+1. _Export scene_ depuis __Shriveling world__
+2. Import scene in Blender
+3. Test and correct normals
+4. Fusionner les cônes
+5. Supprimer le noeud des courbes situé au centre de la terre
+6. Convertir les arcs en _curves_
+7. Ajuster l'épaisseur des _curves_
+8. Définir le matériau des _curves_
+9. Découper les cônes à la frontière
+10. Préparer le rendering
+11. Mettre en oeuvre la HDRI
+12. Mettre en place la caméra
+13. Effectuer un rendu F12 (à confirmer)
+
 ## Module D Adapter un jeu de données : Isère
 
 Les jeux de données de l'Isère ont été produit avec [QGIS](https://www.qgis.org/fr/site/) en suivant [les instructions indiquées ici](https://github.com/theworldisnotflat/shriveling_world/blob/master/markdown/usrdoc/create_dataset_from_scratch.md) et aussi [ici](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/create_dataset).
