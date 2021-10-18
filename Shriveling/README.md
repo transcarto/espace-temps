@@ -80,11 +80,12 @@ L'utilisation de Blender avec les données Shriveling est décrite dans [ce tuto
 6. Convertir les arcs en _curves_
 7. Ajuster l'épaisseur des _curves_
 8. Définir le matériau des _curves_
-9. Découper les cônes à la frontière
-10. Préparer le rendering
-11. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
-12. Mettre en place la caméra
-13. Effectuer un rendu F12 (à confirmer)
+9. Supprimer la base des cônes, _méthode 1_
+10. Découper les cônes à la frontière
+11. Préparer le rendering
+12. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
+13. Mettre en place la caméra
+14. Effectuer un rendu F12 (à confirmer)
 
 ## Module D Adapter un jeu de données : Isère
 
