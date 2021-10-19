@@ -71,6 +71,8 @@
 
 ## Module C Blender
 
+__Attention: une régression de l'export oblge à éviter Firefox et à utiliser Chrome/Chromium__
+
 L'utilisation de Blender avec les données Shriveling est décrite dans [ce tutoriel](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/blender_tutorial). Le TP se décompose ainsi:
 1. _Export scene_ depuis __Shriveling world__
 2. Importer la scene dans Blender
