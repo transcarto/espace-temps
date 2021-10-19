@@ -84,6 +84,7 @@ L'utilisation de Blender avec les données Shriveling est décrite dans [ce tuto
 7. Ajuster l'épaisseur des _curves_
 8. Définir le matériau des _curves_
 9. Simplifier les cônes, _méthode 1_
+    - L'opération a pris environ 5 minutes hier avec mon ordinateur
 10. Découper les cônes à la frontière
 11. Préparer le rendering
 12. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
