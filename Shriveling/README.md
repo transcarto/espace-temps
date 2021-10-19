@@ -28,7 +28,7 @@
 6. Affichage des cônes
    * Clic sur "cones"
    * coneStep = niveau de définition graphique des cônes, pour la valeur 1 le cône est décrit par 360 triangles, pour la valeur 10, 36 triangles (pése sur la taille du fichier de sortie)
-     * valeur recommandée 1
+      * valeur recommandée 1
    * withLimits = découpe les cônes au contour géographique (comporte des erreurs, à réaliser dans Blender)
      * décocher
    * Transparence
@@ -84,12 +84,11 @@ L'utilisation de Blender avec les données Shriveling est décrite dans [ce tuto
 8. Définir le matériau des _curves_
 9. Simplifier les cônes, _méthode 1_
     - L'opération a pris environ 5 minutes hier avec mon ordinateur
-10. Nettoyer le contour de la France
-11. Découper les cônes au contour de la France
-12. Préparer le rendering
-13. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
-14. Mettre en place la caméra
-15. Effectuer un rendu F12 (à confirmer)
+10. ~~Nettoyer le contour de la France~~
+11. ~~Découper les cônes au contour de la France~~  (___fait planter mon ordinateur, peut être pas le vôtre?___)
+12. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
+13. Mettre en place la caméra
+14. Effectuer un rendu F12 (à confirmer)
 
 ## Module D Adapter un jeu de données : Isère
 
