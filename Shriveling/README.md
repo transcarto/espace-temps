@@ -74,8 +74,7 @@
 __Attention: une régression de l'export oblge à éviter Firefox et à utiliser Chrome/Chromium__
 
 L'utilisation de Blender avec les données Shriveling est décrite dans [ce tutoriel](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/blender_tutorial). Le TP se décompose ainsi:
-1. _Export scene_ depuis __Shriveling world__
-   - __Si vous travaillez avec le jeu de données Isère, passez en mode projeté, par ex. Mercator, car la procédure de nettoyage des cones ne fonctionne pas en non projeté__
+1. _Export scene_ depuis __Shriveling world__ du jeu de données __France__
 2. Importer la scene dans Blender
 3. Tester et corriger les normales
 4. Fusionner les cônes
@@ -85,11 +84,12 @@ L'utilisation de Blender avec les données Shriveling est décrite dans [ce tuto
 8. Définir le matériau des _curves_
 9. Simplifier les cônes, _méthode 1_
     - L'opération a pris environ 5 minutes hier avec mon ordinateur
-10. Découper les cônes à la frontière
-11. Préparer le rendering
-12. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
-13. Mettre en place la caméra
-14. Effectuer un rendu F12 (à confirmer)
+10. Nettoyer le contour de la France
+11. Découper les cônes au contour de la France
+12. Préparer le rendering
+13. Mettre en oeuvre la HDRI du studio photo (pour éviter de devoir ajuster les lumières)
+14. Mettre en place la caméra
+15. Effectuer un rendu F12 (à confirmer)
 
 ## Module D Adapter un jeu de données : Isère
 
