@@ -75,6 +75,7 @@ __Attention: une régression de l'export oblge à éviter Firefox et à utiliser
 
 L'utilisation de Blender avec les données Shriveling est décrite dans [ce tutoriel](https://theworldisnotflat.github.io/shriveling_world/marks/usrdoc/blender_tutorial). Le TP se décompose ainsi:
 1. _Export scene_ depuis __Shriveling world__
+   - __Si vous travaillez avec le jeu de données Isère, passez en mode projeté, par ex. Mercator, car la procédure de nettoyage des cones ne fonctionne pas en non projeté__
 2. Importer la scene dans Blender
 3. Tester et corriger les normales
 4. Fusionner les cônes
